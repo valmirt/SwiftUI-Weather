@@ -43,12 +43,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		594A252426291C8A00CB835B /* Group */ = {
+		594A252426291C8A00CB835B /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				59F9FC122629073800783B56 /* Weather.swift */,
 			);
-			path = Group;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		597C7E39262910A3001D5A43 /* View */ = {
@@ -82,7 +82,7 @@
 		59F9FBFE2628FD6000783B56 /* SwiftUI-Weather */ = {
 			isa = PBXGroup;
 			children = (
-				594A252426291C8A00CB835B /* Group */,
+				594A252426291C8A00CB835B /* Model */,
 				597C7E39262910A3001D5A43 /* View */,
 				59F9FBFF2628FD6000783B56 /* SwiftUI_WeatherApp.swift */,
 				59F9FC032628FD6400783B56 /* Assets.xcassets */,
